@@ -1,0 +1,22 @@
+# R history files
+.Rhistory
+.Rapp.history
+
+# R data files
+.RData
+.Ruserdata
+
+# RStudio project files
+.Rproj.user/
+*.Rproj
+
+# Temporary files
+*.tmp
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Excel temp files
+~$*.xlsx
