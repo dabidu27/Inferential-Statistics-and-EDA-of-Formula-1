@@ -12,10 +12,9 @@ It includes **confidence intervals, hypothesis testing, ANOVA, and regression mo
    - [Confidence Intervals](#confidence-intervals)  
    - [Hypothesis Testing](#hypothesis-testing)  
    - [ANOVA](#anova)  
-   - [Regression Analysis](#regression-analysis)  
+   - [Regression Analysis](#regression-analysis)
 4. [How to Run](#how-to-run)  
 5. [Dependencies](#dependencies)  
-6. [Authors](#authors)
 
 ---
 
